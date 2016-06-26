@@ -17,6 +17,7 @@ import com.tutorials.hp.listviewmysqlserversidesearch.MySQL.SenderReceiver;
 
 public class MainActivity extends AppCompatActivity {
 
+//Address to your php script
     String urlAddress="http://10.0.2.2/android/searcher.php";
     SearchView sv;
     ListView lv;
